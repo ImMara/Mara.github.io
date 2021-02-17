@@ -1,0 +1,34 @@
+{
+  "todos" : [
+    {
+      "pseudo": "random1",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mi justo, ultricies sit amet dapibus."
+    },
+    {
+      "pseudo": "random2",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mi justo, ultricies sit amet dapibus."
+    },
+    {
+      "pseudo": "random3",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mi justo, ultricies sit amet dapibus."
+    },
+    {
+      "pseudo": "random4",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mi justo, ultricies sit amet dapibus."
+    }
+  ],
+  "user" : [
+    {
+      "pseudo": "random1",
+      "images": "https://randomuser.me/api/portraits/lego/7.jpg"
+    },
+    {
+      "pseudo": "random2",
+      "images": "https://randomuser.me/api/portraits/lego/5.jpg"
+    },
+    {
+      "pseudo": "random3",
+      "images": "https://randomuser.me/api/portraits/lego/1.jpg"
+    }
+  ]
+}
